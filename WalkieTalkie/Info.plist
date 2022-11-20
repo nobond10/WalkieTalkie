@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Необходим доступ к геопозиции для того, чтобы показывать расстояние до собеседника</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Нужен доступ к микрофону для того, чтобы вести общение в эфире</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_walktalk-st._tcp</string>
+		<string>_walktalk-st._udp</string>
+	</array>
+</dict>
+</plist>
